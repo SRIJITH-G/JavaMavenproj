@@ -27,7 +27,11 @@ package Addition;
 
 			System.out.println("Enter p for Poori - 55Rs.");
 			System.out.println("Enter d for Dosa -75Rs.");
+
 			System.out.println("see you again");
+
+			System.out.println("come again happy hungry");
+
 			String s = input.next();
 			choice = s.charAt(0);
 			
