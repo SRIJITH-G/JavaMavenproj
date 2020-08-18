@@ -15,7 +15,7 @@ package Addition;
 			
 			System.out.println("Only one dish for one person");
 			System.out.println("Enter c for Chapathi - 40Rs. ");
-			System.out.println("Enter f for fried Rice - 90Rs.");
+			System.out.println("Enter f for Shawarma - 90Rs.");
 			System.out.println("Enter p for Poori - 55Rs.");
 			System.out.println("Enter d for Dosa -75Rs.");
 			String s = input.next();
