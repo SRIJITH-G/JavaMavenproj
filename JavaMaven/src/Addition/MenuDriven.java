@@ -18,6 +18,7 @@ package Addition;
 			System.out.println("Enter f for fried Rice - 90Rs.");
 			System.out.println("Enter p for Poori - 55Rs.");
 			System.out.println("Enter d for Dosa -75Rs.");
+			System.out.println("come again");
 			String s = input.next();
 			choice = s.charAt(0);
 			
